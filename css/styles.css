@@ -1,0 +1,13 @@
+.danger {
+	background-color: red;
+	padding: 25px;
+}
+
+.loading {
+	font-size: 2rem;
+	color: hotpink;
+}
+
+.loadingGif {
+	width: 350px;
+}
